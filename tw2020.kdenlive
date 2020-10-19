@@ -2612,7 +2612,7 @@
  <producer id="producer30" in="00:00:00.000" out="00:00:07.840">
   <property name="length">197</property>
   <property name="eof">pause</property>
-  <property name="resource">/home/chiller/Desktop/git/TeeworldsDB/images/realistic/transparent/tees/saddo.svg</property>
+  <property name="resource">img/tees/saddo.png</property>
   <property name="ttl">25</property>
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
