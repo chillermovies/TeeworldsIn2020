@@ -2617,8 +2617,8 @@
   <property name="aspect_ratio">1</property>
   <property name="progressive">1</property>
   <property name="seekable">1</property>
-  <property name="meta.media.width">111</property>
-  <property name="meta.media.height">115</property>
+  <property name="meta.media.width">119</property>
+  <property name="meta.media.height">123</property>
   <property name="mlt_service">qimage</property>
   <property name="kdenlive:clipname"/>
   <property name="kdenlive:duration">00:00:05.000</property>
@@ -2626,6 +2626,44 @@
   <property name="kdenlive:id">32</property>
   <property name="kdenlive:file_size">5793</property>
   <property name="kdenlive:file_hash">648ceaa436938ac4a19d94a3952dbb73</property>
+ </producer>
+ <producer id="producer35" in="00:00:00.000" out="00:00:07.840">
+  <property name="length">00:00:07.880</property>
+  <property name="eof">pause</property>
+  <property name="resource">img/tees/pinky.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">119</property>
+  <property name="meta.media.height">123</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">33</property>
+  <property name="kdenlive:file_size">8817</property>
+  <property name="kdenlive:file_hash">2c1ec2ff9dd418a6631f00760ca0dc8d</property>
+  <property name="global_feed">1</property>
+ </producer>
+ <producer id="producer34" in="00:00:00.000" out="00:00:07.840">
+  <property name="length">00:00:07.880</property>
+  <property name="eof">pause</property>
+  <property name="resource">img/tees/brownbear.png</property>
+  <property name="ttl">25</property>
+  <property name="aspect_ratio">1</property>
+  <property name="progressive">1</property>
+  <property name="seekable">1</property>
+  <property name="meta.media.width">142</property>
+  <property name="meta.media.height">144</property>
+  <property name="mlt_service">qimage</property>
+  <property name="kdenlive:clipname"/>
+  <property name="kdenlive:duration">00:00:05.000</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">34</property>
+  <property name="kdenlive:file_size">10227</property>
+  <property name="kdenlive:file_hash">cf4bb1e996628d9279aa3493455cc5b5</property>
+  <property name="global_feed">1</property>
  </producer>
  <producer id="producer31" in="00:00:00.000" out="00:00:07.840">
   <property name="length">197</property>
@@ -2681,44 +2719,6 @@
   <property name="kdenlive:id">37</property>
   <property name="kdenlive:file_size">11731</property>
   <property name="kdenlive:file_hash">661f0dafbae2a9af5ff5cd77ddf4ef07</property>
-  <property name="global_feed">1</property>
- </producer>
- <producer id="producer34" in="00:00:00.000" out="00:00:07.840">
-  <property name="length">00:00:07.880</property>
-  <property name="eof">pause</property>
-  <property name="resource">img/tees/brownbear.png</property>
-  <property name="ttl">25</property>
-  <property name="aspect_ratio">1</property>
-  <property name="progressive">1</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.width">142</property>
-  <property name="meta.media.height">144</property>
-  <property name="mlt_service">qimage</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:duration">00:00:05.000</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">34</property>
-  <property name="kdenlive:file_size">10227</property>
-  <property name="kdenlive:file_hash">cf4bb1e996628d9279aa3493455cc5b5</property>
-  <property name="global_feed">1</property>
- </producer>
- <producer id="producer35" in="00:00:00.000" out="00:00:07.840">
-  <property name="length">00:00:07.880</property>
-  <property name="eof">pause</property>
-  <property name="resource">img/tees/pinky.png</property>
-  <property name="ttl">25</property>
-  <property name="aspect_ratio">1</property>
-  <property name="progressive">1</property>
-  <property name="seekable">1</property>
-  <property name="meta.media.width">119</property>
-  <property name="meta.media.height">123</property>
-  <property name="mlt_service">qimage</property>
-  <property name="kdenlive:clipname"/>
-  <property name="kdenlive:duration">00:00:05.000</property>
-  <property name="kdenlive:folderid">-1</property>
-  <property name="kdenlive:id">33</property>
-  <property name="kdenlive:file_size">8817</property>
-  <property name="kdenlive:file_hash">2c1ec2ff9dd418a6631f00760ca0dc8d</property>
   <property name="global_feed">1</property>
  </producer>
  <producer id="producer36" in="00:00:00.000" out="00:00:04.960">
@@ -2794,7 +2794,7 @@
   <property name="kdenlive:file_hash">bafd3085a098103becbda3a7ed4c71d5</property>
  </producer>
  <playlist id="main_bin">
-  <property name="kdenlive:docproperties.activeTrack">5</property>
+  <property name="kdenlive:docproperties.activeTrack">3</property>
   <property name="kdenlive:docproperties.audioChannels">2</property>
   <property name="kdenlive:docproperties.audioTarget">-1</property>
   <property name="kdenlive:docproperties.dirtypreviewchunks">525,550,575,600</property>
@@ -2813,7 +2813,7 @@
 ]
 </property>
   <property name="kdenlive:docproperties.kdenliveversion">20.08.2</property>
-  <property name="kdenlive:docproperties.position">610</property>
+  <property name="kdenlive:docproperties.position">578</property>
   <property name="kdenlive:docproperties.previewchunks"/>
   <property name="kdenlive:docproperties.previewextension">mkv</property>
   <property name="kdenlive:docproperties.previewparameters">vcodec=h264_nvenc g=1 bf=0 profile=0 preset=fast qmin=10 qmax=30</property>
@@ -2844,14 +2844,14 @@
   <property name="kdenlive:docproperties.rendertwopass">0</property>
   <property name="kdenlive:docproperties.renderurl">tw2020_start_till_drop.mp4</property>
   <property name="kdenlive:docproperties.renderzone">1</property>
-  <property name="kdenlive:docproperties.scrollPos">11812</property>
+  <property name="kdenlive:docproperties.scrollPos">1455</property>
   <property name="kdenlive:docproperties.seekOffset">30000</property>
   <property name="kdenlive:docproperties.version">1</property>
   <property name="kdenlive:docproperties.verticalzoom">1</property>
-  <property name="kdenlive:docproperties.videoTarget">2</property>
+  <property name="kdenlive:docproperties.videoTarget">-1</property>
   <property name="kdenlive:docproperties.zonein">0</property>
   <property name="kdenlive:docproperties.zoneout">2192</property>
-  <property name="kdenlive:docproperties.zoom">1</property>
+  <property name="kdenlive:docproperties.zoom">3</property>
   <property name="kdenlive:expandedFolders"/>
   <property name="kdenlive:documentnotes"/>
   <property name="xml_retain">1</property>
@@ -2886,11 +2886,11 @@
   <entry producer="producer28" in="00:00:00.000" out="00:00:04.960"/>
   <entry producer="producer29" in="00:00:00.000" out="00:00:07.840"/>
   <entry producer="producer30" in="00:00:00.000" out="00:00:07.840"/>
-  <entry producer="producer31" in="00:00:00.000" out="00:00:04.960"/>
+  <entry producer="producer35" in="00:00:00.000" out="00:00:07.840"/>
+  <entry producer="producer34" in="00:00:00.000" out="00:00:07.840"/>
+  <entry producer="producer31" in="00:00:00.000" out="00:00:07.840"/>
   <entry producer="producer32" in="00:00:00.000" out="00:00:04.960"/>
   <entry producer="producer33" in="00:00:00.000" out="00:00:04.960"/>
-  <entry producer="producer34" in="00:00:00.000" out="00:00:07.840"/>
-  <entry producer="producer35" in="00:00:00.000" out="00:00:07.840"/>
   <entry producer="producer36" in="00:00:00.000" out="00:00:04.960"/>
   <entry producer="producer37" in="00:00:00.000" out="00:00:04.960"/>
   <entry producer="producer38" in="00:00:00.000" out="00:00:04.960"/>
@@ -5518,7 +5518,131 @@
   <track hide="audio" producer="playlist4"/>
   <track hide="both" producer="playlist5"/>
  </tractor>
- <producer id="producer59" in="00:00:00.000" out="00:00:06.960">
+ <producer id="producer59" in="00:00:00.000" out="00:00:08.920">
+  <property name="length">224</property>
+  <property name="eof">pause</property>
+  <property name="resource">/home/chiller/.cache/kdenlive/proxy/15d65d70f6fafe30f4df6bd289b09b7a.mov</property>
+  <property name="audio_index">1</property>
+  <property name="video_index">0</property>
+  <property name="mute_on_pause">0</property>
+  <property name="mlt_service">avformat-novalidate</property>
+  <property name="seekable">1</property>
+  <property name="aspect_ratio">1</property>
+  <property name="kdenlive:clipname">FDBAABF8-2E3A-4BC2-B155-C6E74653980A.mov</property>
+  <property name="kdenlive:folderid">-1</property>
+  <property name="kdenlive:id">5</property>
+  <property name="kdenlive:file_size">12411590</property>
+  <property name="kdenlive:file_hash">15d65d70f6fafe30f4df6bd289b09b7a</property>
+  <property name="kdenlive:proxy">/home/chiller/.cache/kdenlive/proxy/15d65d70f6fafe30f4df6bd289b09b7a.mov</property>
+  <property name="kdenlive:originalurl">mov/party/FDBAABF8-2E3A-4BC2-B155-C6E74653980A.mov</property>
+  <property name="kdenlive:original.mlt_type">producer</property>
+  <property name="kdenlive:original.in">0</property>
+  <property name="kdenlive:original.out">223</property>
+  <property name="kdenlive:original.length">224</property>
+  <property name="kdenlive:original.eof">pause</property>
+  <property name="kdenlive:original.resource">mov/party/FDBAABF8-2E3A-4BC2-B155-C6E74653980A.mov</property>
+  <property name="kdenlive:original.meta.media.nb_streams">5</property>
+  <property name="kdenlive:original.meta.media.0.stream.type">video</property>
+  <property name="kdenlive:original.meta.media.0.stream.frame_rate">29.972</property>
+  <property name="kdenlive:original.meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="kdenlive:original.meta.media.0.codec.width">1920</property>
+  <property name="kdenlive:original.meta.media.0.codec.height">1080</property>
+  <property name="kdenlive:original.meta.media.0.codec.rotate">0</property>
+  <property name="kdenlive:original.meta.media.0.codec.frame_rate">600</property>
+  <property name="kdenlive:original.meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="kdenlive:original.meta.media.0.codec.sample_aspect_ratio">0</property>
+  <property name="kdenlive:original.meta.media.0.codec.colorspace">709</property>
+  <property name="kdenlive:original.meta.media.0.codec.color_trc">1</property>
+  <property name="kdenlive:original.meta.media.0.codec.name">hevc</property>
+  <property name="kdenlive:original.meta.media.0.codec.long_name">HEVC (High Efficiency Video Coding)</property>
+  <property name="kdenlive:original.meta.media.0.codec.bit_rate">10888038</property>
+  <property name="kdenlive:original.meta.attr.0.stream.creation_time.markup">2020-09-13T00:29:49.000000Z</property>
+  <property name="kdenlive:original.meta.attr.0.stream.handler_name.markup">Core Media Video</property>
+  <property name="kdenlive:original.meta.attr.0.stream.encoder.markup">HEVC</property>
+  <property name="kdenlive:original.meta.media.1.stream.type">audio</property>
+  <property name="kdenlive:original.meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="kdenlive:original.meta.media.1.codec.sample_rate">44100</property>
+  <property name="kdenlive:original.meta.media.1.codec.channels">2</property>
+  <property name="kdenlive:original.meta.media.1.codec.name">aac</property>
+  <property name="kdenlive:original.meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="kdenlive:original.meta.media.1.codec.bit_rate">184925</property>
+  <property name="kdenlive:original.meta.attr.1.stream.creation_time.markup">2020-09-13T00:29:49.000000Z</property>
+  <property name="kdenlive:original.meta.attr.1.stream.handler_name.markup">Core Media Audio</property>
+  <property name="kdenlive:original.meta.attr.major_brand.markup">qt  </property>
+  <property name="kdenlive:original.meta.attr.minor_version.markup">0</property>
+  <property name="kdenlive:original.meta.attr.compatible_brands.markup">qt  </property>
+  <property name="kdenlive:original.meta.attr.creation_time.markup">2020-09-13T00:29:49.000000Z</property>
+  <property name="kdenlive:original.meta.attr.com.apple.quicktime.make.markup">Apple</property>
+  <property name="kdenlive:original.meta.attr.com.apple.quicktime.model.markup">iPhone XS</property>
+  <property name="kdenlive:original.meta.attr.com.apple.quicktime.software.markup">13.6.1</property>
+  <property name="kdenlive:original.meta.attr.com.apple.quicktime.creationdate.markup">2020-09-13T02:29:49+0200</property>
+  <property name="kdenlive:original.seekable">1</property>
+  <property name="kdenlive:original.width">1920</property>
+  <property name="kdenlive:original.height">1080</property>
+  <property name="kdenlive:original.meta.media.sample_aspect_num">1</property>
+  <property name="kdenlive:original.meta.media.sample_aspect_den">1</property>
+  <property name="kdenlive:original.aspect_ratio">1</property>
+  <property name="kdenlive:original.audio_index">1</property>
+  <property name="kdenlive:original.video_index">0</property>
+  <property name="kdenlive:original.mute_on_pause">0</property>
+  <property name="kdenlive:original.mlt_service">avformat-novalidate</property>
+  <property name="kdenlive:original.kdenlive:folderid">-1</property>
+  <property name="kdenlive:original.meta.media.frame_rate_num">32160</property>
+  <property name="kdenlive:original.meta.media.frame_rate_den">1073</property>
+  <property name="kdenlive:original.meta.media.colorspace">709</property>
+  <property name="kdenlive:original.meta.media.color_trc">1</property>
+  <property name="kdenlive:original.meta.media.width">1920</property>
+  <property name="kdenlive:original.meta.media.height">1080</property>
+  <property name="kdenlive:original.meta.media.color_range">mpeg</property>
+  <property name="kdenlive:original.kdenlive:id">6</property>
+  <property name="kdenlive:original.kdenlive:file_size">12411590</property>
+  <property name="kdenlive:original.kdenlive:file_hash">15d65d70f6fafe30f4df6bd289b09b7a</property>
+  <property name="kdenlive:original.backup">1</property>
+  <property name="global_feed">1</property>
+  <property name="xml">was here</property>
+  <property name="meta.media.nb_streams">2</property>
+  <property name="meta.media.0.stream.type">video</property>
+  <property name="meta.media.0.stream.frame_rate">29.97</property>
+  <property name="meta.media.0.stream.sample_aspect_ratio">0</property>
+  <property name="meta.media.0.codec.width">640</property>
+  <property name="meta.media.0.codec.height">360</property>
+  <property name="meta.media.0.codec.rotate">0</property>
+  <property name="meta.media.0.codec.frame_rate">29.97</property>
+  <property name="meta.media.0.codec.pix_fmt">yuv420p</property>
+  <property name="meta.media.0.codec.sample_aspect_ratio">1</property>
+  <property name="meta.media.0.codec.colorspace">601</property>
+  <property name="meta.media.0.codec.name">h264</property>
+  <property name="meta.media.0.codec.long_name">H.264 / AVC / MPEG-4 AVC / MPEG-4 part 10</property>
+  <property name="meta.media.0.codec.bit_rate">5152236</property>
+  <property name="meta.attr.0.stream.handler_name.markup">Core Media Video</property>
+  <property name="meta.attr.0.stream.encoder.markup">Lavc58.106.100 h264_nvenc</property>
+  <property name="meta.media.1.stream.type">audio</property>
+  <property name="meta.media.1.codec.sample_fmt">fltp</property>
+  <property name="meta.media.1.codec.sample_rate">44100</property>
+  <property name="meta.media.1.codec.channels">2</property>
+  <property name="meta.media.1.codec.name">aac</property>
+  <property name="meta.media.1.codec.long_name">AAC (Advanced Audio Coding)</property>
+  <property name="meta.media.1.codec.bit_rate">185496</property>
+  <property name="meta.attr.1.stream.handler_name.markup">Core Media Audio</property>
+  <property name="meta.attr.major_brand.markup">qt  </property>
+  <property name="meta.attr.minor_version.markup">512</property>
+  <property name="meta.attr.compatible_brands.markup">qt  </property>
+  <property name="meta.attr.encoder.markup">Lavf58.58.100</property>
+  <property name="meta.media.sample_aspect_num">1</property>
+  <property name="meta.media.sample_aspect_den">1</property>
+  <property name="meta.media.frame_rate_num">30000</property>
+  <property name="meta.media.frame_rate_den">1001</property>
+  <property name="meta.media.colorspace">601</property>
+  <property name="meta.media.color_trc">2</property>
+  <property name="meta.media.width">640</property>
+  <property name="meta.media.height">360</property>
+  <property name="meta.media.color_range">mpeg</property>
+  <property name="meta.media.top_field_first">0</property>
+  <property name="meta.media.progressive">1</property>
+  <property name="set.test_audio">1</property>
+  <property name="set.test_image">0</property>
+ </producer>
+ <producer id="producer60" in="00:00:00.000" out="00:00:06.960">
   <property name="length">175</property>
   <property name="eof">pause</property>
   <property name="resource">/home/chiller/.cache/kdenlive/proxy/fdebaa9e6f1f468e6d2b85dfcd9087cc.mov</property>
@@ -5642,7 +5766,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer60" in="00:00:00.000" out="00:00:21.440">
+ <producer id="producer61" in="00:00:00.000" out="00:00:21.440">
   <property name="length">537</property>
   <property name="eof">pause</property>
   <property name="resource">/home/chiller/.cache/kdenlive/proxy/6189286fbaf8f776998cd0838a1378d1.mov</property>
@@ -5766,7 +5890,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer61" in="00:00:00.000" out="00:00:03.960">
+ <producer id="producer62" in="00:00:00.000" out="00:00:03.960">
   <property name="length">100</property>
   <property name="eof">pause</property>
   <property name="resource">/home/chiller/.cache/kdenlive/proxy/71814888dd13bc8d27fb450f64486fa1.mov</property>
@@ -5890,7 +6014,7 @@
   <property name="set.test_audio">1</property>
   <property name="set.test_image">0</property>
  </producer>
- <producer id="producer62" in="00:00:00.000" out="00:00:05.840">
+ <producer id="producer63" in="00:00:00.000" out="00:00:05.840">
   <property name="length">147</property>
   <property name="eof">pause</property>
   <property name="resource">/home/chiller/.cache/kdenlive/proxy/b7f47642bd5be605d52ddc59221ae641.mov</property>
@@ -6062,23 +6186,3106 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer34" in="00:00:00.000" out="00:00:00.920">
-   <property name="kdenlive:id">34</property>
+  <entry producer="producer59" in="00:00:00.000" out="00:00:00.920">
+   <property name="kdenlive:id">5</property>
+   <property name="kdenlive:activeeffect">1</property>
    <filter id="filter15">
-    <property name="rotate_center">1</property>
-    <property name="mlt_service">qtblend</property>
-    <property name="kdenlive_id">qtblend</property>
-    <property name="rect">00:00:00.000=1110 289 335 189 1.000000;00:00:00.200=1081 286 335 189 1.000000;00:00:00.320=1074 289 335 189 1.000000;00:00:00.400=1053 289 335 189 1.000000;00:00:00.600=1031 280 335 189 1.000000;00:00:00.760=1015 261 335 189 1.000000;00:00:00.920=981 251 335 189 1.000000</property>
-    <property name="rotation">00:00:00.000=0;00:00:00.200=0;00:00:00.320=0;00:00:00.400=0;00:00:00.600=0;00:00:00.760=0;00:00:00.920=0</property>
-    <property name="compositing">0</property>
-    <property name="distort">0</property>
+    <property name="version">0.2</property>
+    <property name="mlt_service">frei0r.IIRblur</property>
+    <property name="kdenlive_id">frei0r.IIRblur</property>
+    <property name="Amount">00:00:00.000=0.603</property>
+    <property name="Type">0.5</property>
+    <property name="Edge">1</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+   <filter id="filter16">
+    <property name="mode">alpha</property>
+    <property name="alpha_operation">clear</property>
+    <property name="invert">0</property>
+    <property name="feather">0</property>
+    <property name="feather_passes">1</property>
+    <property name="mlt_service">rotoscoping</property>
+    <property name="kdenlive_id">rotoscoping</property>
+    <property name="spline">{
+    "00": [
+        [
+            [
+                0.39475847893114074,
+                0.4185388127853881
+            ],
+            [
+                0.39568345323741005,
+                0.3675799086757991
+            ],
+            [
+                0.41099691675231237,
+                0.3650228310502283
+            ]
+        ],
+        [
+            [
+                0.46792383349924116,
+                0.36661666794214426
+            ],
+            [
+                0.48323729701414353,
+                0.36405959031657353
+            ],
+            [
+                0.4834428468599811,
+                0.41940205606999825
+            ]
+        ],
+        [
+            [
+                0.48390480461548596,
+                0.5756320842155387
+            ],
+            [
+                0.48411035446132356,
+                0.6309745499689633
+            ],
+            [
+                0.4676663667943143,
+                0.6291480659506985
+            ]
+        ],
+        [
+            [
+                0.407502569373073,
+                0.6242009132420092
+            ],
+            [
+                0.3910585817060637,
+                0.6223744292237443
+            ],
+            [
+                0.391983556012333,
+                0.5714155251141552
+            ]
+        ],
+        [
+            [
+                0.3928616203048935,
+                0.520005612101732
+            ],
+            [
+                0.393312379954601,
+                0.494413407821229
+            ],
+            [
+                0.393312379954601,
+                0.4819987585350714
+            ]
+        ],
+        [
+            [
+                0.4313078400558757,
+                0.46486654252017356
+            ],
+            [
+                0.43853675571852624,
+                0.4587212911235257
+            ],
+            [
+                0.44136546184738956,
+                0.4561762880198632
+            ]
+        ],
+        [
+            [
+                0.4392002793783831,
+                0.4390440720049658
+            ],
+            [
+                0.4392352016762703,
+                0.43265052762259465
+            ],
+            [
+                0.4392002793783831,
+                0.4266294227188087
+            ]
+        ],
+        [
+            [
+                0.42788545486293,
+                0.4286157666045933
+            ],
+            [
+                0.39470927187008903,
+                0.43916821849782745
+            ],
+            [
+                0.39518348652665086,
+                0.42621616795489914
+            ]
+        ]
+    ],
+    "01": [
+        [
+            [
+                0.39475847893114074,
+                0.4185388127853881
+            ],
+            [
+                0.39568345323741005,
+                0.3675799086757991
+            ],
+            [
+                0.41099691675231237,
+                0.3650228310502283
+            ]
+        ],
+        [
+            [
+                0.46792383349924116,
+                0.36661666794214426
+            ],
+            [
+                0.48323729701414353,
+                0.36405959031657353
+            ],
+            [
+                0.4834428468599811,
+                0.41940205606999825
+            ]
+        ],
+        [
+            [
+                0.48390480461548596,
+                0.5756320842155387
+            ],
+            [
+                0.48411035446132356,
+                0.6309745499689633
+            ],
+            [
+                0.4676663667943143,
+                0.6291480659506985
+            ]
+        ],
+        [
+            [
+                0.407502569373073,
+                0.6242009132420092
+            ],
+            [
+                0.3910585817060637,
+                0.6223744292237443
+            ],
+            [
+                0.391983556012333,
+                0.5714155251141552
+            ]
+        ],
+        [
+            [
+                0.39251239732602156,
+                0.5504215028528182
+            ],
+            [
+                0.39296315697572903,
+                0.5248292985723153
+            ],
+            [
+                0.39296315697572903,
+                0.5124146492861573
+            ]
+        ],
+        [
+            [
+                0.41667539724113845,
+                0.4683426443202983
+            ],
+            [
+                0.42334555613759384,
+                0.46430788330229666
+            ],
+            [
+                0.4296664920551772,
+                0.46163873370577285
+            ]
+        ],
+        [
+            [
+                0.4510389383621442,
+                0.4670391061452498
+            ],
+            [
+                0.4582678540247948,
+                0.46089385474860334
+            ],
+            [
+                0.4610965601536581,
+                0.45834885164494066
+            ]
+        ],
+        [
+            [
+                0.4542168674698795,
+                0.4378026070763501
+            ],
+            [
+                0.4542517897677667,
+                0.4314090626939789
+            ],
+            [
+                0.4542168674698795,
+                0.425387957790193
+            ]
+        ],
+        [
+            [
+                0.42788545486293,
+                0.4286157666045933
+            ],
+            [
+                0.39470927187008903,
+                0.43916821849782745
+            ],
+            [
+                0.39518348652665086,
+                0.42621616795489914
+            ]
+        ]
+    ],
+    "02": [
+        [
+            [
+                0.39475847893114074,
+                0.4185388127853881
+            ],
+            [
+                0.39568345323741005,
+                0.3675799086757991
+            ],
+            [
+                0.41099691675231237,
+                0.3650228310502283
+            ]
+        ],
+        [
+            [
+                0.46792383349924116,
+                0.36661666794214426
+            ],
+            [
+                0.48323729701414353,
+                0.36405959031657353
+            ],
+            [
+                0.4834428468599811,
+                0.41940205606999825
+            ]
+        ],
+        [
+            [
+                0.48390480461548596,
+                0.5756320842155387
+            ],
+            [
+                0.48411035446132356,
+                0.6309745499689633
+            ],
+            [
+                0.4676663667943143,
+                0.6291480659506985
+            ]
+        ],
+        [
+            [
+                0.407502569373073,
+                0.6242009132420092
+            ],
+            [
+                0.3910585817060637,
+                0.6223744292237443
+            ],
+            [
+                0.391983556012333,
+                0.5714155251141552
+            ]
+        ],
+        [
+            [
+                0.39251239732602156,
+                0.5504215028528182
+            ],
+            [
+                0.39296315697572903,
+                0.5248292985723153
+            ],
+            [
+                0.39296315697572903,
+                0.5124146492861573
+            ]
+        ],
+        [
+            [
+                0.41667539724113845,
+                0.4683426443202983
+            ],
+            [
+                0.42334555613759384,
+                0.46430788330229666
+            ],
+            [
+                0.4296664920551772,
+                0.46163873370577285
+            ]
+        ],
+        [
+            [
+                0.4510389383621442,
+                0.4670391061452498
+            ],
+            [
+                0.4582678540247948,
+                0.46089385474860334
+            ],
+            [
+                0.4610965601536581,
+                0.45834885164494066
+            ]
+        ],
+        [
+            [
+                0.4638204993888598,
+                0.4396648044692737
+            ],
+            [
+                0.4638554216867469,
+                0.43327126008690253
+            ],
+            [
+                0.4638204993888598,
+                0.4272501551831166
+            ]
+        ],
+        [
+            [
+                0.4550899249170595,
+                0.42098075729360646
+            ],
+            [
+                0.44848961061637854,
+                0.4214773432650527
+            ],
+            [
+                0.4412956172516152,
+                0.422656734947238
+            ]
+        ],
+        [
+            [
+                0.42718700890518596,
+                0.43947858472998114
+            ],
+            [
+                0.39401082591234504,
+                0.45003103662321536
+            ],
+            [
+                0.3944850405689068,
+                0.437078986080287
+            ]
+        ]
+    ],
+    "03": [
+        [
+            [
+                0.39475847893114074,
+                0.4185388127853881
+            ],
+            [
+                0.39568345323741005,
+                0.3675799086757991
+            ],
+            [
+                0.41099691675231237,
+                0.3650228310502283
+            ]
+        ],
+        [
+            [
+                0.46792383349924116,
+                0.36661666794214426
+            ],
+            [
+                0.48323729701414353,
+                0.36405959031657353
+            ],
+            [
+                0.4834428468599811,
+                0.41940205606999825
+            ]
+        ],
+        [
+            [
+                0.48390480461548596,
+                0.5756320842155387
+            ],
+            [
+                0.48411035446132356,
+                0.6309745499689633
+            ],
+            [
+                0.4676663667943143,
+                0.6291480659506985
+            ]
+        ],
+        [
+            [
+                0.407502569373073,
+                0.6242009132420092
+            ],
+            [
+                0.3910585817060637,
+                0.6223744292237443
+            ],
+            [
+                0.391983556012333,
+                0.5714155251141552
+            ]
+        ],
+        [
+            [
+                0.39251239732602156,
+                0.5504215028528182
+            ],
+            [
+                0.39296315697572903,
+                0.5248292985723153
+            ],
+            [
+                0.39296315697572903,
+                0.5124146492861573
+            ]
+        ],
+        [
+            [
+                0.437454164484023,
+                0.4857231533209191
+            ],
+            [
+                0.4441243233804784,
+                0.4816883923029174
+            ],
+            [
+                0.4504452592980618,
+                0.4790192427063935
+            ]
+        ],
+        [
+            [
+                0.4758337698620569,
+                0.4779019242706375
+            ],
+            [
+                0.4830626855247075,
+                0.4717566728739913
+            ],
+            [
+                0.48589139165357076,
+                0.46921166977032863
+            ]
+        ],
+        [
+            [
+                0.4797101449275362,
+                0.44897579143389194
+            ],
+            [
+                0.4797450672254234,
+                0.44258224705152077
+            ],
+            [
+                0.4797101449275362,
+                0.43656114214773484
+            ]
+        ],
+        [
+            [
+                0.4468831849135673,
+                0.4473618870266913
+            ],
+            [
+                0.44028287061288635,
+                0.4478584729981378
+            ],
+            [
+                0.43308887724812295,
+                0.4490378646803231
+            ]
+        ],
+        [
+            [
+                0.4264885629474419,
+                0.4481688392302913
+            ],
+            [
+                0.393312379954601,
+                0.4587212911235257
+            ],
+            [
+                0.3937865946111628,
+                0.44576924058059736
+            ]
+        ]
+    ],
+    "04": [
+        [
+            [
+                0.39475847893114074,
+                0.4185388127853881
+            ],
+            [
+                0.39568345323741005,
+                0.3675799086757991
+            ],
+            [
+                0.41099691675231237,
+                0.3650228310502283
+            ]
+        ],
+        [
+            [
+                0.46792383349924116,
+                0.36661666794214426
+            ],
+            [
+                0.48323729701414353,
+                0.36405959031657353
+            ],
+            [
+                0.4834428468599811,
+                0.41940205606999825
+            ]
+        ],
+        [
+            [
+                0.48390480461548596,
+                0.5756320842155387
+            ],
+            [
+                0.48411035446132356,
+                0.6309745499689633
+            ],
+            [
+                0.4676663667943143,
+                0.6291480659506985
+            ]
+        ],
+        [
+            [
+                0.407502569373073,
+                0.6242009132420092
+            ],
+            [
+                0.3910585817060637,
+                0.6223744292237443
+            ],
+            [
+                0.391983556012333,
+                0.5714155251141552
+            ]
+        ],
+        [
+            [
+                0.39251239732602156,
+                0.5504215028528182
+            ],
+            [
+                0.39296315697572903,
+                0.5248292985723153
+            ],
+            [
+                0.39296315697572903,
+                0.5124146492861573
+            ]
+        ],
+        [
+            [
+                0.4453116815086433,
+                0.49627560521415304
+            ],
+            [
+                0.45198184040509864,
+                0.4922408441961514
+            ],
+            [
+                0.45830277632268207,
+                0.4895716945996275
+            ]
+        ],
+        [
+            [
+                0.4749607124148769,
+                0.501489757914337
+            ],
+            [
+                0.4821896280775275,
+                0.49534450651769085
+            ],
+            [
+                0.4850183342063908,
+                0.4927995034140282
+            ]
+        ],
+        [
+            [
+                0.4832023747162563,
+                0.46914959652389776
+            ],
+            [
+                0.48323729701414353,
+                0.462756052141527
+            ],
+            [
+                0.4832023747162563,
+                0.45673494723774055
+            ]
+        ],
+        [
+            [
+                0.45578837087480356,
+                0.46194909993792627
+            ],
+            [
+                0.4491880565741226,
+                0.46244568590937307
+            ],
+            [
+                0.4419940632093592,
+                0.4636250775915582
+            ]
+        ],
+        [
+            [
+                0.430155404225598,
+                0.4658597144630664
+            ],
+            [
+                0.393312379954601,
+                0.4664804469273743
+            ],
+            [
+                0.3937865946111628,
+                0.4535283963844459
+            ]
+        ]
+    ],
+    "05": [
+        [
+            [
+                0.39475847893114074,
+                0.4185388127853881
+            ],
+            [
+                0.39568345323741005,
+                0.3675799086757991
+            ],
+            [
+                0.41099691675231237,
+                0.3650228310502283
+            ]
+        ],
+        [
+            [
+                0.46792383349924116,
+                0.36661666794214426
+            ],
+            [
+                0.48323729701414353,
+                0.36405959031657353
+            ],
+            [
+                0.4834428468599811,
+                0.41940205606999825
+            ]
+        ],
+        [
+            [
+                0.48390480461548596,
+                0.5756320842155387
+            ],
+            [
+                0.48411035446132356,
+                0.6309745499689633
+            ],
+            [
+                0.4676663667943143,
+                0.6291480659506985
+            ]
+        ],
+        [
+            [
+                0.407502569373073,
+                0.6242009132420092
+            ],
+            [
+                0.3910585817060637,
+                0.6223744292237443
+            ],
+            [
+                0.391983556012333,
+                0.5714155251141552
+            ]
+        ],
+        [
+            [
+                0.39251239732602156,
+                0.5504215028528182
+            ],
+            [
+                0.39296315697572903,
+                0.5248292985723153
+            ],
+            [
+                0.39296315697572903,
+                0.5124146492861573
+            ]
+        ],
+        [
+            [
+                0.4496769687445434,
+                0.5170701427684669
+            ],
+            [
+                0.4563471276409988,
+                0.5130353817504655
+            ],
+            [
+                0.46266806355858214,
+                0.5103662321539413
+            ]
+        ],
+        [
+            [
+                0.4754845468831849,
+                0.51514587212911
+            ],
+            [
+                0.4827134625458355,
+                0.5090006207324642
+            ],
+            [
+                0.4855421686746988,
+                0.5064556176288015
+            ]
+        ],
+        [
+            [
+                0.4828531517373843,
+                0.48932340161390325
+            ],
+            [
+                0.4828880740352715,
+                0.48292985723153314
+            ],
+            [
+                0.4828531517373843,
+                0.47690875232774654
+            ]
+        ],
+        [
+            [
+                0.4573598742797275,
+                0.48119180633147063
+            ],
+            [
+                0.4507595599790466,
+                0.4816883923029174
+            ],
+            [
+                0.4435655666142832,
+                0.4828677839851024
+            ]
+        ],
+        [
+            [
+                0.430679238693906,
+                0.47361887026691485
+            ],
+            [
+                0.393836214422909,
+                0.4742396027312228
+            ],
+            [
+                0.3943104290794708,
+                0.4612875521882944
+            ]
+        ]
+    ],
+    "06": [
+        [
+            [
+                0.39475847893114074,
+                0.4185388127853881
+            ],
+            [
+                0.39568345323741005,
+                0.3675799086757991
+            ],
+            [
+                0.41099691675231237,
+                0.3650228310502283
+            ]
+        ],
+        [
+            [
+                0.46792383349924116,
+                0.36661666794214426
+            ],
+            [
+                0.48323729701414353,
+                0.36405959031657353
+            ],
+            [
+                0.4834428468599811,
+                0.41940205606999825
+            ]
+        ],
+        [
+            [
+                0.48390480461548596,
+                0.5756320842155387
+            ],
+            [
+                0.48411035446132356,
+                0.6309745499689633
+            ],
+            [
+                0.4676663667943143,
+                0.6291480659506985
+            ]
+        ],
+        [
+            [
+                0.407502569373073,
+                0.6242009132420092
+            ],
+            [
+                0.3910585817060637,
+                0.6223744292237443
+            ],
+            [
+                0.391983556012333,
+                0.5714155251141552
+            ]
+        ],
+        [
+            [
+                0.3923377858365855,
+                0.5861136195505213
+            ],
+            [
+                0.392788545486293,
+                0.5605214152700185
+            ],
+            [
+                0.392788545486293,
+                0.5481067659838604
+            ]
+        ],
+        [
+            [
+                0.45020080321285144,
+                0.5369335816263188
+            ],
+            [
+                0.45687096210930683,
+                0.5328988206083178
+            ],
+            [
+                0.4631918980268902,
+                0.530229671011793
+            ]
+        ],
+        [
+            [
+                0.4758337698620569,
+                0.5542520173805068
+            ],
+            [
+                0.4830626855247075,
+                0.548106765983861
+            ],
+            [
+                0.48589139165357076,
+                0.5455617628801983
+            ]
+        ],
+        [
+            [
+                0.4828531517373843,
+                0.5194289261328355
+            ],
+            [
+                0.4828880740352715,
+                0.5130353817504655
+            ],
+            [
+                0.4828531517373843,
+                0.5070142768466787
+            ]
+        ],
+        [
+            [
+                0.45683603981141957,
+                0.5044692737430159
+            ],
+            [
+                0.4502357255107386,
+                0.504965859714463
+            ],
+            [
+                0.4430417321459752,
+                0.5061452513966478
+            ]
+        ],
+        [
+            [
+                0.39313776846516496,
+                0.494723774053383
+            ],
+            [
+                0.39313776846516496,
+                0.4866542520173805
+            ],
+            [
+                0.3936119831217268,
+                0.4737022014744521
+            ]
+        ]
+    ],
+    "07": [
+        [
+            [
+                0.39308585160607573,
+                0.4302264398017059
+            ],
+            [
+                0.39401082591234504,
+                0.3792675356921167
+            ],
+            [
+                0.40932428942724736,
+                0.37671045806654607
+            ]
+        ],
+        [
+            [
+                0.4663523300943171,
+                0.3715825276566073
+            ],
+            [
+                0.48166579360921946,
+                0.3690254500310366
+            ],
+            [
+                0.48187134345505706,
+                0.42436791578446154
+            ]
+        ],
+        [
+            [
+                0.48390480461548596,
+                0.5756320842155387
+            ],
+            [
+                0.48411035446132356,
+                0.6309745499689633
+            ],
+            [
+                0.4676663667943143,
+                0.6291480659506985
+            ]
+        ],
+        [
+            [
+                0.40905792166386623,
+                0.6216278496296868
+            ],
+            [
+                0.39261393399685696,
+                0.6198013656114215
+            ],
+            [
+                0.39353890830312627,
+                0.568842461501833
+            ]
+        ],
+        [
+            [
+                0.3919885628577135,
+                0.6007008324617568
+            ],
+            [
+                0.392439322507421,
+                0.5751086281812539
+            ],
+            [
+                0.392439322507421,
+                0.5626939788950958
+            ]
+        ],
+        [
+            [
+                0.44513707001920727,
+                0.5642458100558653
+            ],
+            [
+                0.45180722891566266,
+                0.5602110490378647
+            ],
+            [
+                0.45812816483324603,
+                0.5575418994413397
+            ]
+        ],
+        [
+            [
+                0.47565915837262096,
+                0.5877715704531324
+            ],
+            [
+                0.4828880740352715,
+                0.5816263190564867
+            ],
+            [
+                0.48571678016413483,
+                0.5790813159528246
+            ]
+        ],
+        [
+            [
+                0.48355159769512834,
+                0.5548106765983848
+            ],
+            [
+                0.48358651999301555,
+                0.548417132216015
+            ],
+            [
+                0.48355159769512834,
+                0.5423960273122275
+            ]
+        ],
+        [
+            [
+                0.45753448576916356,
+                0.5395406579764112
+            ],
+            [
+                0.4509341714684826,
+                0.5400372439478585
+            ],
+            [
+                0.44374017810371924,
+                0.5412166356300432
+            ]
+        ],
+        [
+            [
+                0.393312379954601,
+                0.5139664804469275
+            ],
+            [
+                0.393312379954601,
+                0.5058969584109249
+            ],
+            [
+                0.3937865946111628,
+                0.49294490786799633
+            ]
+        ]
+    ],
+    "08": [
+        [
+            [
+                0.39308585160607573,
+                0.4302264398017059
+            ],
+            [
+                0.39401082591234504,
+                0.3792675356921167
+            ],
+            [
+                0.40932428942724736,
+                0.37671045806654607
+            ]
+        ],
+        [
+            [
+                0.4663523300943171,
+                0.3715825276566073
+            ],
+            [
+                0.48166579360921946,
+                0.3690254500310366
+            ],
+            [
+                0.48187134345505706,
+                0.42436791578446154
+            ]
+        ],
+        [
+            [
+                0.48390480461548596,
+                0.5756320842155387
+            ],
+            [
+                0.48411035446132356,
+                0.6309745499689633
+            ],
+            [
+                0.4676663667943143,
+                0.6291480659506985
+            ]
+        ],
+        [
+            [
+                0.46440976381507976,
+                0.6089028341113762
+            ],
+            [
+                0.4479657761480705,
+                0.6070763500931099
+            ],
+            [
+                0.4099004714510215,
+                0.5701427684667908
+            ]
+        ],
+        [
+            [
+                0.3926870088154575,
+                0.5740093364965178
+            ],
+            [
+                0.39313776846516496,
+                0.548417132216015
+            ],
+            [
+                0.39313776846516496,
+                0.5360024829298567
+            ]
+        ],
+        [
+            [
+                0.393312379954601,
+                0.5139664804469275
+            ],
+            [
+                0.393312379954601,
+                0.5058969584109249
+            ],
+            [
+                0.3937865946111628,
+                0.49294490786799633
+            ]
+        ]
+    ],
+    "09": [
+        [
+            [
+                0.3906412907539717,
+                0.4261916787837047
+            ],
+            [
+                0.391566265060241,
+                0.3752327746741155
+            ],
+            [
+                0.4068797285751433,
+                0.37267569704854486
+            ]
+        ],
+        [
+            [
+                0.461812431368981,
+                0.3644441043170667
+            ],
+            [
+                0.47712589488388335,
+                0.36188702669149597
+            ],
+            [
+                0.47733144472972094,
+                0.4172294924449209
+            ]
+        ],
+        [
+            [
+                0.47709495652748174,
+                0.5607345050721494
+            ],
+            [
+                0.4773005063733194,
+                0.6160769708255741
+            ],
+            [
+                0.4608565187063101,
+                0.6142504868073092
+            ]
+        ],
+        [
+            [
+                0.46440976381507976,
+                0.6089028341113762
+            ],
+            [
+                0.4479657761480705,
+                0.6070763500931099
+            ],
+            [
+                0.4256155055002619,
+                0.5918684047175667
+            ]
+        ],
+        [
+            [
+                0.40445259298061814,
+                0.6101179391682199
+            ],
+            [
+                0.3968046097433211,
+                0.6027312228429547
+            ],
+            [
+                0.39348699144403704,
+                0.5983860955927994
+            ]
+        ],
+        [
+            [
+                0.3926870088154575,
+                0.5740093364965178
+            ],
+            [
+                0.39313776846516496,
+                0.548417132216015
+            ],
+            [
+                0.39313776846516496,
+                0.5360024829298567
+            ]
+        ],
+        [
+            [
+                0.393312379954601,
+                0.5139664804469275
+            ],
+            [
+                0.393312379954601,
+                0.5058969584109249
+            ],
+            [
+                0.3937865946111628,
+                0.49294490786799633
+            ]
+        ]
+    ],
+    "10": [
+        [
+            [
+                0.3891279911788596,
+                0.42381220433719113
+            ],
+            [
+                0.3900529654851289,
+                0.37285330022760194
+            ],
+            [
+                0.4053664290000312,
+                0.3702962226020313
+            ]
+        ],
+        [
+            [
+                0.460881170091989,
+                0.36340955020988686
+            ],
+            [
+                0.4761946336068913,
+                0.36085247258431613
+            ],
+            [
+                0.4764001834527289,
+                0.41619493833774107
+            ]
+        ],
+        [
+            [
+                0.4759890837610537,
+                0.5601137726078416
+            ],
+            [
+                0.4761946336068913,
+                0.6154562383612663
+            ],
+            [
+                0.459750645939882,
+                0.6136297543430014
+            ]
+        ],
+        [
+            [
+                0.4427943329688565,
+                0.609721690773196
+            ],
+            [
+                0.429282346778418,
+                0.60604179598593
+            ],
+            [
+                0.4132762935801175,
+                0.5944547899855163
+            ]
+        ],
+        [
+            [
+                0.43441592456783656,
+                0.5674529277881233
+            ],
+            [
+                0.429544264012572,
+                0.5650217256362507
+            ],
+            [
+                0.42668063558582153,
+                0.5638423339540662
+            ]
+        ],
+        [
+            [
+                0.3938012921250218,
+                0.6004138216428718
+            ],
+            [
+                0.3906059018683429,
+                0.5879888268156425
+            ],
+            [
+                0.38595541586636395,
+                0.553776122491206
+            ]
+        ]
+    ],
+    "11": [
+        [
+            [
+                0.3876146916037476,
+                0.4214327298906776
+            ],
+            [
+                0.3885396659100169,
+                0.37047382578108834
+            ],
+            [
+                0.4038531294249192,
+                0.3679167481555178
+            ]
+        ],
+        [
+            [
+                0.4599499088149969,
+                0.3623749961027071
+            ],
+            [
+                0.4752633723298993,
+                0.3598179184771364
+            ],
+            [
+                0.4754689221757369,
+                0.41516038423056123
+            ]
+        ],
+        [
+            [
+                0.47488321099462566,
+                0.5594930401435335
+            ],
+            [
+                0.4750887608404633,
+                0.6148355058969583
+            ],
+            [
+                0.458644773173454,
+                0.6130090218786933
+            ]
+        ],
+        [
+            [
+                0.42117890212263326,
+                0.610540547435016
+            ],
+            [
+                0.4105989174087655,
+                0.6050072418787503
+            ],
+            [
+                0.40093708165997316,
+                0.5970411752534658
+            ]
+        ],
+        [
+            [
+                0.42551073860660027,
+                0.5571280777984691
+            ],
+            [
+                0.42325825039287585,
+                0.5516759776536313
+            ],
+            [
+                0.42102322332809494,
+                0.5467101179391682
+            ]
+        ],
+        [
+            [
+                0.39048367382573773,
+                0.5664390647630871
+            ],
+            [
+                0.38816134101623884,
+                0.552917442582247
+            ],
+            [
+                0.386071823525988,
+                0.5195323815435547
+            ]
+        ]
+    ],
+    "12": [
+        [
+            [
+                0.3861013920286355,
+                0.41905325544416405
+            ],
+            [
+                0.38702636633490484,
+                0.3680943513345748
+            ],
+            [
+                0.40233982984980715,
+                0.36553727370900424
+            ]
+        ],
+        [
+            [
+                0.4590186475380049,
+                0.3613404419955273
+            ],
+            [
+                0.47433211105290723,
+                0.35878336436995656
+            ],
+            [
+                0.4745376608987449,
+                0.4141258301233814
+            ]
+        ],
+        [
+            [
+                0.4737773382281977,
+                0.5588723076792257
+            ],
+            [
+                0.47398288807403527,
+                0.6142147734326505
+            ],
+            [
+                0.457538900407026,
+                0.6123882894143855
+            ]
+        ],
+        [
+            [
+                0.39956347127640995,
+                0.6113594040968359
+            ],
+            [
+                0.39191548803911297,
+                0.6039726877715705
+            ],
+            [
+                0.38859786973982885,
+                0.5996275605214153
+            ]
+        ],
+        [
+            [
+                0.410005238344683,
+                0.566045934202359
+            ],
+            [
+                0.4099877771957395,
+                0.5572625698324022
+            ],
+            [
+                0.4344333857167801,
+                0.5395716945996276
+            ]
+        ],
+        [
+            [
+                0.4035620743844945,
+                0.5411235257603974
+            ],
+            [
+                0.40143181421337526,
+                0.5380198634388579
+            ],
+            [
+                0.3985332634887376,
+                0.5354748603351953
+            ]
+        ],
+        [
+            [
+                0.3853500960363192,
+                0.5441340782122902
+            ],
+            [
+                0.3848437227169548,
+                0.5290192427063936
+            ],
+            [
+                0.38437227169547755,
+                0.49695841092489107
+            ]
+        ]
+    ],
+    "13": [
+        [
+            [
+                0.38330760819765947,
+                0.41532886065831676
+            ],
+            [
+                0.3842325825039287,
+                0.3643699565487275
+            ],
+            [
+                0.3995460460188311,
+                0.36181287892315694
+            ]
+        ],
+        [
+            [
+                0.4576217556225169,
+                0.3563745822810643
+            ],
+            [
+                0.4729352191374192,
+                0.3538175046554935
+            ],
+            [
+                0.4731407689832568,
+                0.40915997040891844
+            ]
+        ],
+        [
+            [
+                0.47412656120706964,
+                0.5545271804290706
+            ],
+            [
+                0.47433211105290723,
+                0.6098696461824954
+            ],
+            [
+                0.45788812338589796,
+                0.6080431621642304
+            ]
+        ],
+        [
+            [
+                0.3946743495722018,
+                0.6116697703289897
+            ],
+            [
+                0.38702636633490484,
+                0.6042830540037244
+            ],
+            [
+                0.3837087480356207,
+                0.5999379267535692
+            ]
+        ]
+    ],
+    "15": [
+        [
+            [
+                0.38138688181386343,
+                0.4119148321046235
+            ],
+            [
+                0.3823118561201327,
+                0.3609559279950341
+            ],
+            [
+                0.39762531963503506,
+                0.3583988503694637
+            ]
+        ],
+        [
+            [
+                0.4550025832809768,
+                0.35109835633444725
+            ],
+            [
+                0.4703160467958792,
+                0.34854127870887647
+            ],
+            [
+                0.4705215966417168,
+                0.4038837444623014
+            ]
+        ],
+        [
+            [
+                0.47238044631270965,
+                0.5523546168039931
+            ],
+            [
+                0.47258599615854724,
+                0.6076970825574177
+            ],
+            [
+                0.45614200849153796,
+                0.6058705985391529
+            ]
+        ],
+        [
+            [
+                0.39048367382573773,
+                0.6076350093109885
+            ],
+            [
+                0.3828356905884407,
+                0.6002482929857231
+            ],
+            [
+                0.3795180722891566,
+                0.5959031657355679
+            ]
+        ]
+    ],
+    "16": [
+        [
+            [
+                0.38138688181386343,
+                0.4119148321046235
+            ],
+            [
+                0.3823118561201327,
+                0.3609559279950341
+            ],
+            [
+                0.39762531963503506,
+                0.3583988503694637
+            ]
+        ],
+        [
+            [
+                0.4550025832809768,
+                0.35109835633444725
+            ],
+            [
+                0.4703160467958792,
+                0.34854127870887647
+            ],
+            [
+                0.4705215966417168,
+                0.4038837444623014
+            ]
+        ],
+        [
+            [
+                0.47238044631270965,
+                0.5523546168039931
+            ],
+            [
+                0.47258599615854724,
+                0.6076970825574177
+            ],
+            [
+                0.45614200849153796,
+                0.6058705985391529
+            ]
+        ],
+        [
+            [
+                0.41189104243059194,
+                0.599441340782123
+            ],
+            [
+                0.3988999476165532,
+                0.5949720670391061
+            ],
+            [
+                0.39397590361445783,
+                0.5934202358783363
+            ]
+        ],
+        [
+            [
+                0.3906582853151737,
+                0.5849782743637507
+            ],
+            [
+                0.38301030207787673,
+                0.5775915580384854
+            ],
+            [
+                0.3796926837785926,
+                0.5732464307883303
+            ]
+        ]
+    ],
+    "17": [
+        [
+            [
+                0.3775454290462713,
+                0.40881116978308435
+            ],
+            [
+                0.3784704033525406,
+                0.35785226567349476
+            ],
+            [
+                0.39378386686744293,
+                0.35529518804792454
+            ]
+        ],
+        [
+            [
+                0.4506372960450767,
+                0.3483050602450618
+            ],
+            [
+                0.465950759559979,
+                0.345747982619491
+            ],
+            [
+                0.4661563094058166,
+                0.4010904483729159
+            ]
+        ],
+        [
+            [
+                0.46644365567188545,
+                0.5452161934644526
+            ],
+            [
+                0.46664920551772304,
+                0.6005586592178771
+            ],
+            [
+                0.45020521785071377,
+                0.5987321751996124
+            ]
+        ],
+        [
+            [
+                0.4314475292474244,
+                0.6030415890751097
+            ],
+            [
+                0.42282172166928583,
+                0.6073867163252638
+            ],
+            [
+                0.4169547756242361,
+                0.6114835505896971
+            ]
+        ],
+        [
+            [
+                0.38224201152435827,
+                0.6026070763500937
+            ],
+            [
+                0.3795180722891566,
+                0.6024208566108007
+            ],
+            [
+                0.3767941330539549,
+                0.6019242706393549
+            ]
+        ],
+        [
+            [
+                0.3819975554391479,
+                0.5630664183736813
+            ],
+            [
+                0.37654967696874453,
+                0.5623836126629423
+            ],
+            [
+                0.37400034922297887,
+                0.562073246430789
+            ]
+        ],
+        [
+            [
+                0.408259123450323,
+                0.6022967101179394
+            ],
+            [
+                0.4153134276235376,
+                0.5999379267535693
+            ],
+            [
+                0.41754845468831847,
+                0.5976412166356303
+            ]
+        ],
+        [
+            [
+                0.43909551248472145,
+                0.5995654872749848
+            ],
+            [
+                0.4266631744368779,
+                0.595592799503414
+            ],
+            [
+                0.4236947791164658,
+                0.5903165735567972
+            ]
+        ],
+        [
+            [
+                0.4213549851580234,
+                0.5753569211669773
+            ],
+            [
+                0.42020254932774576,
+                0.5723153320918684
+            ],
+            [
+                0.4182119783481753,
+                0.5687771570453136
+            ]
+        ],
+        [
+            [
+                0.40790990047145104,
+                0.5624456859093727
+            ],
+            [
+                0.40361445783132527,
+                0.5561762880198634
+            ],
+            [
+                0.4000174611489436,
+                0.5500310366232151
+            ]
+        ],
+        [
+            [
+                0.3875152785053257,
+                0.5343885785226581
+            ],
+            [
+                0.37986729526802865,
+                0.527001862197393
+            ],
+            [
+                0.3765496769687446,
+                0.5226567349472377
+            ]
+        ]
+    ],
+    "18": [
+        [
+            [
+                0.3738785877681152,
+                0.40446604253292984
+            ],
+            [
+                0.3748035620743845,
+                0.35350713842333953
+            ],
+            [
+                0.39011702558928685,
+                0.35095006079777
+            ]
+        ],
+        [
+            [
+                0.4469704547669206,
+                0.3445806654592144
+            ],
+            [
+                0.46228391828182297,
+                0.34202358783364367
+            ],
+            [
+                0.46248946812766056,
+                0.3973660535870684
+            ]
+        ],
+        [
+            [
+                0.4643483177986534,
+                0.5445954610001448
+            ],
+            [
+                0.46455386764449097,
+                0.5999379267535693
+            ],
+            [
+                0.4481098799774817,
+                0.5981114427353046
+            ]
+        ],
+        [
+            [
+                0.3806705081194342,
+                0.5945375543140915
+            ],
+            [
+                0.37794656888423256,
+                0.5943513345747983
+            ],
+            [
+                0.37522262964903086,
+                0.5938547486033526
+            ]
+        ],
+        [
+            [
+                0.3793783830976078,
+                0.5093730602110497
+            ],
+            [
+                0.37393050462720445,
+                0.5086902545003104
+            ],
+            [
+                0.3713811768814388,
+                0.508379888268157
+            ]
+        ],
+        [
+            [
+                0.4237995460101274,
+                0.5411545623836131
+            ],
+            [
+                0.43085385018334205,
+                0.5387957790192427
+            ],
+            [
+                0.4330888772481229,
+                0.5364990689013039
+            ]
+        ],
+        [
+            [
+                0.4367207962283918,
+                0.5222842954686533
+            ],
+            [
+                0.4355683603981142,
+                0.5192427063935443
+            ],
+            [
+                0.43357778941854375,
+                0.5157045313469895
+            ]
+        ],
+        [
+            [
+                0.41594202898550725,
+                0.515890751086281
+            ],
+            [
+                0.4116465863453815,
+                0.5096213531967723
+            ],
+            [
+                0.40804958966299976,
+                0.5034761018001235
+            ]
+        ],
+        [
+            [
+                0.3864676095687096,
+                0.49342023587833767
+            ],
+            [
+                0.3788196263314126,
+                0.4860335195530726
+            ],
+            [
+                0.3755020080321285,
+                0.4816883923029174
+            ]
+        ]
+    ],
+    "19": [
+        [
+            [
+                0.3707355847830805,
+                0.399189821109384
+            ],
+            [
+                0.37166055908934975,
+                0.34823091699979364
+            ],
+            [
+                0.3869740226042521,
+                0.3456738393742242
+            ]
+        ],
+        [
+            [
+                0.4459227869855543,
+                0.34287365594130453
+            ],
+            [
+                0.46123625050045663,
+                0.3403165783157338
+            ],
+            [
+                0.46144180034629423,
+                0.3956590440691585
+            ]
+        ],
+        [
+            [
+                0.4643483177986534,
+                0.5445954610001448
+            ],
+            [
+                0.46455386764449097,
+                0.5999379267535693
+            ],
+            [
+                0.4481098799774817,
+                0.5981114427353046
+            ]
+        ],
+        [
+            [
+                0.37674175336168586,
+                0.5923649879418724
+            ],
+            [
+                0.37401781412648416,
+                0.5921787682025793
+            ],
+            [
+                0.3712938748912825,
+                0.5916821822311337
+            ]
+        ],
+        [
+            [
+                0.37815610267155575,
+                0.4873370577281198
+            ],
+            [
+                0.3727082242011524,
+                0.4866542520173805
+            ],
+            [
+                0.37015889645538674,
+                0.48634388578522714
+            ]
+        ],
+        [
+            [
+                0.4065828531517373,
+                0.5001241464928613
+            ],
+            [
+                0.4151388161341016,
+                0.505586592178771
+            ],
+            [
+                0.4209009952854898,
+                0.5076350093109868
+            ]
+        ],
+        [
+            [
+                0.43724463069669983,
+                0.5265673494723774
+            ],
+            [
+                0.44429893486991445,
+                0.5242085661080075
+            ],
+            [
+                0.4465339619346953,
+                0.5219118559900683
+            ]
+        ],
+        [
+            [
+                0.44265758686921597,
+                0.48969584109248954
+            ],
+            [
+                0.44150515103893834,
+                0.4866542520173805
+            ],
+            [
+                0.4395145800593679,
+                0.48311607697082565
+            ]
+        ],
+        [
+            [
+                0.42362493452069144,
+                0.48950962135319603
+            ],
+            [
+                0.41932949188056573,
+                0.48324022346368717
+            ],
+            [
+                0.415732495198184,
+                0.47709497206703844
+            ]
+        ],
+        [
+            [
+                0.3831499912694255,
+                0.4608317815021736
+            ],
+            [
+                0.3755020080321285,
+                0.45344506517690875
+            ],
+            [
+                0.3721843897328444,
+                0.4490999379267535
+            ]
+        ]
+    ],
+    "20": [
+        [
+            [
+                0.3705609694688311,
+                0.3991898165863128
+            ],
+            [
+                0.3714859437751004,
+                0.3482309124767225
+            ],
+            [
+                0.38679940729000273,
+                0.345673834851153
+            ]
+        ],
+        [
+            [
+                0.44435128362746473,
+                0.33914926126645284
+            ],
+            [
+                0.45966474714236705,
+                0.3365921836408821
+            ],
+            [
+                0.45987029698820464,
+                0.3919346493943068
+            ]
+        ],
+        [
+            [
+                0.4606814765204973,
+                0.5414917986786053
+            ],
+            [
+                0.4608870263663349,
+                0.5968342644320298
+            ],
+            [
+                0.4444430386993256,
+                0.5950077804137651
+            ]
+        ],
+        [
+            [
+                0.437977998952331,
+                0.5884543761638734
+            ],
+            [
+                0.43102846167277803,
+                0.5865921787709497
+            ],
+            [
+                0.42722193120307317,
+                0.5863438857852268
+            ]
+        ],
+        [
+            [
+                0.42757115418194513,
+                0.580384854127871
+            ],
+            [
+                0.42631395145800594,
+                0.5800744878957169
+            ],
+            [
+                0.4237646237122403,
+                0.5801365611421475
+            ]
+        ],
+        [
+            [
+                0.42076130609394097,
+                0.5773432650527625
+            ],
+            [
+                0.41985332634887373,
+                0.5791433891992551
+            ],
+            [
+                0.4175135323904312,
+                0.5813159528243328
+            ]
+        ],
+        [
+            [
+                0.4178627553693033,
+                0.5883923029174425
+            ],
+            [
+                0.40710668762004537,
+                0.5862818125387957
+            ],
+            [
+                0.3999476165531692,
+                0.5863438857852266
+            ]
+        ],
+        [
+            [
+                0.3740352715208661,
+                0.5867783985102432
+            ],
+            [
+                0.3713113322856644,
+                0.5865921787709497
+            ],
+            [
+                0.36858739305046273,
+                0.5860955927995042
+            ]
+        ],
+        [
+            [
+                0.3757115418194517,
+                0.47243947858473057
+            ],
+            [
+                0.37026366334904837,
+                0.4717566728739913
+            ],
+            [
+                0.3690413829229963,
+                0.47548106765983866
+            ]
+        ],
+        [
+            [
+                0.4053605727256853,
+                0.47467411545623817
+            ],
+            [
+                0.4139165357080496,
+                0.48013656114214776
+            ],
+            [
+                0.41967871485943775,
+                0.4821849782743637
+            ]
+        ],
+        [
+            [
+                0.4335777894185437,
+                0.508255741775294
+            ],
+            [
+                0.4406320935917583,
+                0.5058969584109249
+            ],
+            [
+                0.4428671206565392,
+                0.5036002482929856
+            ]
+        ],
+        [
+            [
+                0.4566265060240964,
+                0.4884543761638738
+            ],
+            [
+                0.45547407019381875,
+                0.4854127870887648
+            ],
+            [
+                0.4534834992142483,
+                0.4818746120422099
+            ]
+        ],
+        [
+            [
+                0.44789593155229607,
+                0.4730602110490377
+            ],
+            [
+                0.4439497118910424,
+                0.46958410924891375
+            ],
+            [
+                0.44227344159245674,
+                0.46828057107386706
+            ]
+        ],
+        [
+            [
+                0.42414876898899945,
+                0.47088764742395944
+            ],
+            [
+                0.41985332634887373,
+                0.4646182495344507
+            ],
+            [
+                0.416256329666492,
+                0.45847299813780185
+            ]
+        ],
+        [
+            [
+                0.3826261568011175,
+                0.4375543140906279
+            ],
+            [
+                0.3749781735638205,
+                0.4301675977653631
+            ],
+            [
+                0.3716605552645364,
+                0.42582247051520783
+            ]
+        ]
+    ],
+    "21": [
+        [
+            [
+                0.36829102010616305,
+                0.398258717889851
+            ],
+            [
+                0.3692159944124323,
+                0.3472998137802607
+            ],
+            [
+                0.3845294579273347,
+                0.3447427361546912
+            ]
+        ],
+        [
+            [
+                0.44042252523224074,
+                0.3354248665916012
+            ],
+            [
+                0.4557359887471431,
+                0.3328677889660305
+            ],
+            [
+                0.4559415385929807,
+                0.3882102547194552
+            ]
+        ],
+        [
+            [
+                0.4587607501367012,
+                0.5402503337499895
+            ],
+            [
+                0.4589662999825388,
+                0.595592799503414
+            ],
+            [
+                0.4425223123155295,
+                0.5937663154851494
+            ]
+        ],
+        [
+            [
+                0.43116815086432686,
+                0.5912476722532594
+            ],
+            [
+                0.42421861358477386,
+                0.5893854748603351
+            ],
+            [
+                0.420412083115069,
+                0.5891371818746124
+            ]
+        ],
+        [
+            [
+                0.42058669460450493,
+                0.5645561762880206
+            ],
+            [
+                0.41932949188056573,
+                0.5642458100558659
+            ],
+            [
+                0.41678016413480007,
+                0.5643078833022971
+            ]
+        ],
+        [
+            [
+                0.4111576741749607,
+                0.5605834885164498
+            ],
+            [
+                0.41024969442989345,
+                0.5623836126629423
+            ],
+            [
+                0.407909900471451,
+                0.5645561762880198
+            ]
+        ],
+        [
+            [
+                0.40895756940806705,
+                0.5846679081315955
+            ],
+            [
+                0.39820150165880913,
+                0.5825574177529486
+            ],
+            [
+                0.39104243059193294,
+                0.5826194909993794
+            ]
+        ],
+        [
+            [
+                0.3740352715208661,
+                0.5867783985102432
+            ],
+            [
+                0.3713113322856644,
+                0.5865921787709497
+            ],
+            [
+                0.36858739305046273,
+                0.5860955927995042
+            ]
+        ],
+        [
+            [
+                0.3736162039462197,
+                0.46157666045934254
+            ],
+            [
+                0.3681683254758163,
+                0.46089385474860334
+            ],
+            [
+                0.36694604504976425,
+                0.46461824953445086
+            ]
+        ],
+        [
+            [
+                0.41129736336650946,
+                0.4644320297951581
+            ],
+            [
+                0.41985332634887373,
+                0.46989447548106766
+            ],
+            [
+                0.4256155055002619,
+                0.47194289261328354
+            ]
+        ],
+        [
+            [
+                0.4295617251615156,
+                0.49677219118559807
+            ],
+            [
+                0.4366160293347302,
+                0.494413407821229
+            ],
+            [
+                0.4388510563995111,
+                0.49211669770328936
+            ]
+        ],
+        [
+            [
+                0.4543565566614283,
+                0.4803848541278713
+            ],
+            [
+                0.4532041208311507,
+                0.47734326505276226
+            ],
+            [
+                0.45121354985158024,
+                0.4738050900062074
+            ]
+        ],
+        [
+            [
+                0.4541819451719923,
+                0.46126629422718773
+            ],
+            [
+                0.4502357255107386,
+                0.4577901924270639
+            ],
+            [
+                0.4485594552121529,
+                0.45648665425201707
+            ]
+        ],
+        [
+            [
+                0.4250218264361795,
+                0.45474860335195444
+            ],
+            [
+                0.42072638379605376,
+                0.4484792054624457
+            ],
+            [
+                0.41712938711367203,
+                0.44233395406579684
+            ]
+        ],
+        [
+            [
+                0.3976427448926139,
+                0.43711980136561135
+            ],
+            [
+                0.39191548803911297,
+                0.43358162631905645
+            ],
+            [
+                0.3876200453989872,
+                0.4306021104903786
+            ]
+        ],
+        [
+            [
+                0.3782608695652174,
+                0.42327746741154676
+            ],
+            [
+                0.3706128863279204,
+                0.4158907510862818
+            ],
+            [
+                0.36729526802863627,
+                0.41154562383612664
+            ]
+        ]
+    ],
+    "22": [
+        [
+            [
+                0.366370293722367,
+                0.3951550555683115
+            ],
+            [
+                0.36729526802863627,
+                0.3441961514587213
+            ],
+            [
+                0.38260873154353864,
+                0.3416390738331517
+            ]
+        ],
+        [
+            [
+                0.44016060800589246,
+                0.3335626692541753
+            ],
+            [
+                0.45547407152079483,
+                0.3310055916286046
+            ],
+            [
+                0.4556796213666324,
+                0.38634805738202926
+            ]
+        ],
+        [
+            [
+                0.4575384697106492,
+                0.5334222766426028
+            ],
+            [
+                0.4577440195564868,
+                0.5887647423960273
+            ],
+            [
+                0.44130003188947753,
+                0.5869382583777626
+            ]
+        ],
+        [
+            [
+                0.41353239043129036,
+                0.5869025450031056
+            ],
+            [
+                0.40658285315173737,
+                0.58504034761018
+            ],
+            [
+                0.4027763226820325,
+                0.5847920546244573
+            ]
+        ],
+        [
+            [
+                0.4111576741749607,
+                0.5540037243947865
+            ],
+            [
+                0.4099004714510215,
+                0.5536933581626319
+            ],
+            [
+                0.4073511437052558,
+                0.5537554314090631
+            ]
+        ],
+        [
+            [
+                0.40399860310808455,
+                0.5360645561762882
+            ],
+            [
+                0.40309062336301726,
+                0.5378646803227808
+            ],
+            [
+                0.4007508294045748,
+                0.5400372439478577
+            ]
+        ],
+        [
+            [
+                0.3939409813165706,
+                0.5741154562383616
+            ],
+            [
+                0.3831849135673127,
+                0.5720049658597144
+            ],
+            [
+                0.3760258425004365,
+                0.5720670391061456
+            ]
+        ],
+        [
+            [
+                0.371066876200454,
+                0.5836747361887038
+            ],
+            [
+                0.3683429369652523,
+                0.5834885164494102
+            ],
+            [
+                0.36561899773005063,
+                0.5829919304779646
+            ]
+        ],
+        [
+            [
+                0.3723939235201676,
+                0.4566108007448795
+            ],
+            [
+                0.36694604504976425,
+                0.4559279950341403
+            ],
+            [
+                0.36572376462371214,
+                0.4596523898199878
+            ]
+        ],
+        [
+            [
+                0.4387113672079623,
+                0.45375543140906266
+            ],
+            [
+                0.41985332634887373,
+                0.46989447548106766
+            ],
+            [
+                0.4256155055002619,
+                0.47194289261328354
+            ]
+        ],
+        [
+            [
+                0.4292125021826436,
+                0.49242706393544294
+            ],
+            [
+                0.43626680635585824,
+                0.4900682805710739
+            ],
+            [
+                0.4385018334206391,
+                0.48777157045313424
+            ]
+        ],
+        [
+            [
+                0.43284442116291255,
+                0.4692737430167597
+            ],
+            [
+                0.43417146848262617,
+                0.46865301055245184
+            ],
+            [
+                0.43731447529247425,
+                0.46443202979515824
+            ]
+        ],
+        [
+            [
+                0.4445433909551248,
+                0.4771570453134699
+            ],
+            [
+                0.4467434957220185,
+                0.4767225325884544
+            ],
+            [
+                0.44943251265933293,
+                0.4765983860955928
+            ]
+        ],
+        [
+            [
+                0.45976951283394446,
+                0.4689013035381754
+            ],
+            [
+                0.45861707700366683,
+                0.4658597144630664
+            ],
+            [
+                0.4566265060240964,
+                0.4623215394165115
+            ]
+        ],
+        [
+            [
+                0.4588964553867644,
+                0.4404717566728736
+            ],
+            [
+                0.4549502357255107,
+                0.43699565487274983
+            ],
+            [
+                0.45327396542692505,
+                0.4356921166977031
+            ]
+        ],
+        [
+            [
+                0.4379430766544438,
+                0.4448168839230282
+            ],
+            [
+                0.4336476340143181,
+                0.4385474860335195
+            ],
+            [
+                0.4300506373319364,
+                0.43240223463687066
+            ]
+        ],
+        [
+            [
+                0.4077702112799022,
+                0.4330850403476101
+            ],
+            [
+                0.4020429544264012,
+                0.42954686530105524
+            ],
+            [
+                0.3977475117862755,
+                0.42656734947237734
+            ]
+        ],
+        [
+            [
+                0.3780862580757814,
+                0.4180012414649298
+            ],
+            [
+                0.37043827483848435,
+                0.4106145251396648
+            ],
+            [
+                0.3671206565392003,
+                0.4062693978895096
+            ]
+        ]
+    ],
+    "23": [
+        [
+            [
+                0.36183039908723946,
+                0.3931376797627498
+            ],
+            [
+                0.3627553733935088,
+                0.34217877565315963
+            ],
+            [
+                0.3780688369084111,
+                0.33962169802759
+            ]
+        ],
+        [
+            [
+                0.43387459457353406,
+                0.33123492258239284
+            ],
+            [
+                0.4491880580884364,
+                0.3286778449568223
+            ],
+            [
+                0.449393607934274,
+                0.3840203107102469
+            ]
+        ],
+        [
+            [
+                0.4575384697106492,
+                0.5334222766426028
+            ],
+            [
+                0.4577440195564868,
+                0.5887647423960273
+            ],
+            [
+                0.44130003188947753,
+                0.5869382583777626
+            ]
+        ],
+        [
+            [
+                0.37778941854374015,
+                0.5819677219118573
+            ],
+            [
+                0.3750654793085385,
+                0.5817815021725636
+            ],
+            [
+                0.3723415400733368,
+                0.5812849162011182
+            ]
+        ],
+        [
+            [
+                0.3731272917757988,
+                0.5566728739913097
+            ],
+            [
+                0.37244630696699843,
+                0.5498137802607076
+            ],
+            [
+                0.37646237122402654,
+                0.5401924270639354
+            ]
+        ],
+        [
+            [
+                0.38494848961061634,
+                0.5230602110490372
+            ],
+            [
+                0.38798672952680285,
+                0.5166045934202359
+            ],
+            [
+                0.3894534660380653,
+                0.514245810055865
+            ]
+        ],
+        [
+            [
+                0.3865199930155404,
+                0.5011483550589696
+            ],
+            [
+                0.38658983761131477,
+                0.4936374922408442
+            ],
+            [
+                0.3864850707176532,
+                0.4897889509621354
+            ]
+        ],
+        [
+            [
+                0.3647983237297014,
+                0.5037554314090626
+            ],
+            [
+                0.3647634014318142,
+                0.4923960273122284
+            ],
+            [
+                0.3640824166230138,
+                0.48355058969584114
+            ]
+        ],
+        [
+            [
+                0.36680635585821547,
+                0.44885164494103086
+            ],
+            [
+                0.3613584773878121,
+                0.44816883923029177
+            ],
+            [
+                0.3601361969617601,
+                0.4518932340161392
+            ]
+        ],
+        [
+            [
+                0.4174786100925441,
+                0.44922408441961525
+            ],
+            [
+                0.41967871485943775,
+                0.44878957169459965
+            ],
+            [
+                0.42236773179675224,
+                0.44866542520173797
+            ]
+        ],
+        [
+            [
+                0.4540946394272743,
+                0.46502172563625094
+            ],
+            [
+                0.45294220359699666,
+                0.4619801365611421
+            ],
+            [
+                0.4509516326174262,
+                0.45844196151458705
+            ]
+        ],
+        [
+            [
+                0.45531691985332634,
+                0.4254189944134077
+            ],
+            [
+                0.45137070019207265,
+                0.42194289261328366
+            ],
+            [
+                0.44969442989348696,
+                0.42063935443823713
+            ]
+        ],
+        [
+            [
+                0.4369827134625458,
+                0.4337988826815632
+            ],
+            [
+                0.4326872708224201,
+                0.4275294847920546
+            ],
+            [
+                0.42909027414003836,
+                0.42138423339540576
+            ]
+        ],
+        [
+            [
+                0.40942902042954427,
+                0.42361887026691497
+            ],
+            [
+                0.40370176357604326,
+                0.42008069522036
+            ],
+            [
+                0.39940632093591755,
+                0.4171011793916822
+            ]
+        ],
+        [
+            [
+                0.3780862580757814,
+                0.4180012414649298
+            ],
+            [
+                0.37043827483848435,
+                0.4106145251396648
+            ],
+            [
+                0.3671206565392003,
+                0.4062693978895096
+            ]
+        ]
+    ]
+}
+</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
   <entry producer="producer36" in="00:00:00.000" out="00:00:01.960">
    <property name="kdenlive:id">38</property>
    <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter16">
+   <filter id="filter17">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -6092,8 +9299,7 @@
   <blank length="00:00:19.280"/>
   <entry producer="producer38" in="00:00:00.000" out="00:00:01.360">
    <property name="kdenlive:id">40</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter17">
+   <filter id="filter18">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -6105,13 +9311,13 @@
    </filter>
   </entry>
   <blank length="00:00:06.240"/>
-  <entry producer="producer59" in="00:00:01.520" out="00:00:05.520">
+  <entry producer="producer60" in="00:00:01.520" out="00:00:05.520">
    <property name="kdenlive:id">16</property>
   </entry>
   <blank length="00:00:02.160"/>
-  <entry producer="producer60" in="00:00:03.040" out="00:00:04.240">
+  <entry producer="producer61" in="00:00:03.040" out="00:00:04.240">
    <property name="kdenlive:id">18</property>
-   <filter id="filter18">
+   <filter id="filter19">
     <property name="version">0.2</property>
     <property name="mlt_service">frei0r.IIRblur</property>
     <property name="kdenlive_id">frei0r.IIRblur</property>
@@ -6120,7 +9326,7 @@
     <property name="Edge">1</property>
     <property name="kdenlive:collapsed">0</property>
    </filter>
-   <filter id="filter19" in="00:00:03.600" out="00:00:04.240">
+   <filter id="filter20" in="00:00:03.600" out="00:00:04.240">
     <property name="start">1</property>
     <property name="mlt_service">brightness</property>
     <property name="kdenlive_id">fade_to_black</property>
@@ -6130,20 +9336,7 @@
    </filter>
   </entry>
   <blank length="00:00:00.120"/>
-  <entry producer="producer61" in="00:00:03.520" out="00:00:03.520">
-   <property name="kdenlive:id">17</property>
-   <filter id="filter20">
-    <property name="version">0.4</property>
-    <property name="mlt_service">frei0r.curves</property>
-    <property name="kdenlive_id">frei0r.bezier_curves</property>
-    <property name="0">0.5</property>
-    <property name="4">1</property>
-    <property name="5">-1.000000;-1.000000#0.000000;0.000000#0.100000;0.100000|0.193575;0.929289#0.264286;1.000000#0.326190;1.070711|0.614286;0.595577#0.676190;0.624161#0.772018;0.652745|0.900000;0.900000#1.000000;1.000000#2.000000;2.000000</property>
-    <property name="kdenlive:collapsed">0</property>
-   </filter>
-  </entry>
-  <blank length="00:00:00.040"/>
-  <entry producer="producer61" in="00:00:03.600" out="00:00:03.600">
+  <entry producer="producer62" in="00:00:03.520" out="00:00:03.520">
    <property name="kdenlive:id">17</property>
    <filter id="filter21">
     <property name="version">0.4</property>
@@ -6156,7 +9349,7 @@
    </filter>
   </entry>
   <blank length="00:00:00.040"/>
-  <entry producer="producer61" in="00:00:03.680" out="00:00:03.680">
+  <entry producer="producer62" in="00:00:03.600" out="00:00:03.600">
    <property name="kdenlive:id">17</property>
    <filter id="filter22">
     <property name="version">0.4</property>
@@ -6169,7 +9362,7 @@
    </filter>
   </entry>
   <blank length="00:00:00.040"/>
-  <entry producer="producer61" in="00:00:03.760" out="00:00:03.760">
+  <entry producer="producer62" in="00:00:03.680" out="00:00:03.680">
    <property name="kdenlive:id">17</property>
    <filter id="filter23">
     <property name="version">0.4</property>
@@ -6181,20 +9374,33 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
+  <blank length="00:00:00.040"/>
+  <entry producer="producer62" in="00:00:03.760" out="00:00:03.760">
+   <property name="kdenlive:id">17</property>
+   <filter id="filter24">
+    <property name="version">0.4</property>
+    <property name="mlt_service">frei0r.curves</property>
+    <property name="kdenlive_id">frei0r.bezier_curves</property>
+    <property name="0">0.5</property>
+    <property name="4">1</property>
+    <property name="5">-1.000000;-1.000000#0.000000;0.000000#0.100000;0.100000|0.193575;0.929289#0.264286;1.000000#0.326190;1.070711|0.614286;0.595577#0.676190;0.624161#0.772018;0.652745|0.900000;0.900000#1.000000;1.000000#2.000000;2.000000</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
   <blank length="00:00:06.080"/>
-  <entry producer="producer62" in="00:00:02.520" out="00:00:02.520">
+  <entry producer="producer63" in="00:00:02.520" out="00:00:02.520">
    <property name="kdenlive:id">20</property>
   </entry>
   <blank length="00:00:00.040"/>
-  <entry producer="producer62" in="00:00:02.880" out="00:00:02.880">
+  <entry producer="producer63" in="00:00:02.880" out="00:00:02.880">
    <property name="kdenlive:id">20</property>
   </entry>
   <blank length="00:00:00.040"/>
-  <entry producer="producer62" in="00:00:04.080" out="00:00:04.080">
+  <entry producer="producer63" in="00:00:04.080" out="00:00:04.080">
    <property name="kdenlive:id">20</property>
   </entry>
   <blank length="00:00:00.040"/>
-  <entry producer="producer62" in="00:00:05.280" out="00:00:05.280">
+  <entry producer="producer63" in="00:00:05.280" out="00:00:05.280">
    <property name="kdenlive:id">20</property>
   </entry>
  </playlist>
@@ -6211,7 +9417,7 @@
  <playlist id="playlist8">
   <entry producer="producer27" in="00:00:00.000" out="00:00:04.000">
    <property name="kdenlive:id">29</property>
-   <filter id="filter24">
+   <filter id="filter25">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -6225,7 +9431,7 @@
   <blank length="00:00:09.000"/>
   <entry producer="producer30" in="00:00:00.000" out="00:00:07.840">
    <property name="kdenlive:id">32</property>
-   <filter id="filter25">
+   <filter id="filter26">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -6236,15 +9442,14 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer32" in="00:00:00.000" out="00:00:00.920">
-   <property name="kdenlive:id">36</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter26">
+  <entry producer="producer34" in="00:00:00.000" out="00:00:00.920">
+   <property name="kdenlive:id">34</property>
+   <filter id="filter27">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
-    <property name="rect">00:00:00.000=529 262 243 138 1.000000;00:00:00.040=523 248 243 138 1.000000;00:00:00.120=510 236 243 138 1.000000;00:00:00.320=514 242 243 138 1.000000;00:00:00.520=495 238 243 138 1.000000;00:00:00.600=491 222 243 138 1.000000;00:00:00.680=472 209 243 138 1.000000;00:00:00.800=447 207 243 138 1.000000;00:00:00.920=430 208 243 138 1.000000</property>
-    <property name="rotation">00:00:00.000=0;00:00:00.040=0;00:00:00.120=0;00:00:00.320=0;00:00:00.520=0;00:00:00.600=0;00:00:00.680=0;00:00:00.800=0;00:00:00.920=0</property>
+    <property name="rect">00:00:00.000=1110 289 335 189 1.000000;00:00:00.200=1081 286 335 189 1.000000;00:00:00.320=1074 289 335 189 1.000000;00:00:00.400=1053 289 335 189 1.000000;00:00:00.600=1031 280 335 189 1.000000;00:00:00.760=1015 261 335 189 1.000000;00:00:00.920=981 251 335 189 1.000000</property>
+    <property name="rotation">00:00:00.000=0;00:00:00.200=0;00:00:00.320=0;00:00:00.400=0;00:00:00.600=0;00:00:00.760=0;00:00:00.920=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
@@ -6252,8 +9457,7 @@
   </entry>
   <entry producer="producer37" in="00:00:00.000" out="00:00:01.960">
    <property name="kdenlive:id">39</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter27">
+   <filter id="filter28">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -6278,7 +9482,7 @@
  <playlist id="playlist10">
   <entry producer="producer28" in="00:00:00.000" out="00:00:04.000">
    <property name="kdenlive:id">30</property>
-   <filter id="filter28">
+   <filter id="filter29">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -6292,7 +9496,7 @@
   <blank length="00:00:09.000"/>
   <entry producer="producer35" in="00:00:00.000" out="00:00:07.840">
    <property name="kdenlive:id">33</property>
-   <filter id="filter29">
+   <filter id="filter30">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -6303,14 +9507,14 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
-  <entry producer="producer33" in="00:00:00.000" out="00:00:00.920">
-   <property name="kdenlive:id">37</property>
-   <filter id="filter30">
+  <entry producer="producer32" in="00:00:00.000" out="00:00:00.920">
+   <property name="kdenlive:id">36</property>
+   <filter id="filter31">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
-    <property name="rect">00:00:00.000=1789 1000 413 232 1.000000;00:00:00.240=1759 970 413 232 1.000000;00:00:00.520=1688 940 413 232 1.000000;00:00:00.920=1633 887 413 232 1.000000</property>
-    <property name="rotation">00:00:00.000=0;00:00:00.240=0;00:00:00.520=0;00:00:00.920=0</property>
+    <property name="rect">00:00:00.000=529 262 243 138 1.000000;00:00:00.040=523 248 243 138 1.000000;00:00:00.120=510 236 243 138 1.000000;00:00:00.320=514 242 243 138 1.000000;00:00:00.520=495 238 243 138 1.000000;00:00:00.600=491 222 243 138 1.000000;00:00:00.680=472 209 243 138 1.000000;00:00:00.800=447 207 243 138 1.000000;00:00:00.920=430 208 243 138 1.000000</property>
+    <property name="rotation">00:00:00.000=0;00:00:00.040=0;00:00:00.120=0;00:00:00.320=0;00:00:00.520=0;00:00:00.600=0;00:00:00.680=0;00:00:00.800=0;00:00:00.920=0</property>
     <property name="compositing">0</property>
     <property name="distort">0</property>
     <property name="kdenlive:collapsed">0</property>
@@ -6318,8 +9522,7 @@
   </entry>
   <entry producer="producer39" in="00:00:00.000" out="00:00:01.960">
    <property name="kdenlive:id">41</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter31">
+   <filter id="filter32">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -6345,7 +9548,7 @@
   <blank length="00:00:13.040"/>
   <entry producer="producer34" in="00:00:00.000" out="00:00:07.840">
    <property name="kdenlive:id">34</property>
-   <filter id="filter32">
+   <filter id="filter33">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -6356,20 +9559,35 @@
     <property name="kdenlive:collapsed">0</property>
    </filter>
   </entry>
+  <entry producer="producer33" in="00:00:00.000" out="00:00:00.920">
+   <property name="kdenlive:id">37</property>
+   <filter id="filter34">
+    <property name="rotate_center">1</property>
+    <property name="mlt_service">qtblend</property>
+    <property name="kdenlive_id">qtblend</property>
+    <property name="rect">00:00:00.000=1789 1000 413 232 1.000000;00:00:00.240=1759 970 413 232 1.000000;00:00:00.520=1688 940 413 232 1.000000;00:00:00.920=1633 887 413 232 1.000000</property>
+    <property name="rotation">00:00:00.000=0;00:00:00.240=0;00:00:00.520=0;00:00:00.920=0</property>
+    <property name="compositing">0</property>
+    <property name="distort">0</property>
+    <property name="kdenlive:collapsed">0</property>
+   </filter>
+  </entry>
  </playlist>
  <playlist id="playlist13"/>
- <tractor id="tractor6" in="00:00:00.000" out="00:00:20.880">
+ <tractor id="tractor6" in="00:00:00.000" out="00:00:21.840">
   <property name="kdenlive:trackheight">69</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
   <property name="kdenlive:timeline_active">1</property>
-  <track producer="playlist12"/>
+  <track hide="audio" producer="playlist12"/>
   <track hide="both" producer="playlist13"/>
  </tractor>
  <playlist id="playlist14">
   <blank length="00:00:13.040"/>
   <entry producer="producer31" in="00:00:00.000" out="00:00:07.840">
    <property name="kdenlive:id">35</property>
-   <property name="kdenlive:activeeffect">0</property>
-   <filter id="filter33">
+   <filter id="filter35">
     <property name="rotate_center">1</property>
     <property name="mlt_service">qtblend</property>
     <property name="kdenlive_id">qtblend</property>
@@ -6384,8 +9602,11 @@
  <playlist id="playlist15"/>
  <tractor id="tractor7" in="00:00:00.000" out="00:00:20.880">
   <property name="kdenlive:trackheight">69</property>
+  <property name="kdenlive:collapsed">0</property>
+  <property name="kdenlive:thumbs_format"/>
+  <property name="kdenlive:audio_rec"/>
   <property name="kdenlive:timeline_active">1</property>
-  <track producer="playlist14"/>
+  <track hide="audio" producer="playlist14"/>
   <track hide="both" producer="playlist15"/>
  </tractor>
  <playlist id="timeline_preview"/>
@@ -6499,21 +9720,21 @@
    <property name="internal_added">237</property>
    <property name="always_active">1</property>
   </transition>
-  <filter id="filter34">
+  <filter id="filter36">
    <property name="window">75</property>
    <property name="max_gain">20dB</property>
    <property name="mlt_service">volume</property>
    <property name="internal_added">237</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter35">
+  <filter id="filter37">
    <property name="channel">-1</property>
    <property name="mlt_service">panner</property>
    <property name="internal_added">237</property>
    <property name="start">0.5</property>
    <property name="disable">1</property>
   </filter>
-  <filter id="filter36">
+  <filter id="filter38">
    <property name="iec_scale">0</property>
    <property name="mlt_service">audiolevel</property>
    <property name="disable">1</property>
